@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="trswcmv6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../workspacetrs/lib/trswcmv6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

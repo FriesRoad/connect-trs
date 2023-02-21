@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../workspacetrs/lib/com.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../workspacetrs/lib/com.jar!/" />
+    </SOURCES>
+  </library>
+</component>
